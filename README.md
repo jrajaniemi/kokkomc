@@ -1,1 +1,3 @@
-# historic page of Kokko MC-Club
+# Kokko MC-Club
+
+Todennäköisesti yksi suomen vanhimmista moottoripyöräkerhojen verkkosivuista.
